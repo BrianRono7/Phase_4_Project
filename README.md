@@ -33,3 +33,14 @@ A subscription-based streaming service aims to increase user engagement by reduc
 - Deploy real-time recommendation engine with online learning
 
 ## 📁 Project Structure
+phase_4_project/
+│
+├── data/                   # Raw and processed datasets
+├── notebooks/              # Exploratory and EDA notebooks
+├── src/                    # Modular scripts for modeling and evaluation
+├── outputs/                # Evaluation results and visualizations
+├── README.md               # Project documentation
+└── LICENSE                 # License info
+
+## 🙌 Acknowledgments
+Special thanks to *Moringa School* for their mentorship and support, and to the open-source community for resources and inspiration.
